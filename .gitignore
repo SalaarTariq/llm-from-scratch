@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+*.svg
+Micrograd_from_scratch/NN
+Micrograd_from_scratch/Neuron
+Micrograd_from_scratch/graph
