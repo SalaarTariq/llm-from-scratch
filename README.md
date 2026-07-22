@@ -20,6 +20,16 @@ A from-scratch implementation of a scalar-valued autograd engine and a small neu
 
 A simple MLP with architecture `[3, 4, 4, 1]` is trained on 4 data points using gradient descent with MSE loss.
 
+## Makemore From Scratch
+
+A character-level language model that generates new name-like strings, trained on a dataset of names.
+
+### What's implemented:
+
+- **Bigram model** — probability table over character pairs
+- **One-hot encoding** — input representation for the neural net
+- **Visualization** — bigram count heatmap and one-hot encoding plots
+
 ## Setup
 
 ```bash
