@@ -44,3 +44,9 @@ brew install graphviz
 ```bash
 python Micrograd_from_scratch/lesson_1.py
 ```
+
+## Repository Structure
+
+- `Micrograd_from_scratch/` — scalar autograd engine, MLP, and lesson notebooks
+- `Makemore_from_scratch/` — character-level bigram language model
+
